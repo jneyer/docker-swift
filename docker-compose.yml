@@ -1,0 +1,10 @@
+version: '2'
+services:
+  swift:
+    build: swift/.
+    image: jneyer/swift
+    container_name: swift
+    volumes:
+     - .:/swift
+    env_file: swiftenv 
+    privileged: true
