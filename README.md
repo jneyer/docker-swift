@@ -1,6 +1,6 @@
 # docker-swift
 
-Ubuntu:Wily Docker container for the [Swift](https://github.com/apple/swift) programming language. 
+Ubuntu Docker container for the [Swift](https://github.com/apple/swift) programming language. 
 
 1. Checkout docker-swift.
 2. Install Docker.
