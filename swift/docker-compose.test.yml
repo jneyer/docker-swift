@@ -1,5 +1,5 @@
 
-swift:
+sut:
  build: swift/.
  dockerfile: Dockerfile.test
 
