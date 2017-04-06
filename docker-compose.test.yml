@@ -1,0 +1,5 @@
+
+swift:
+ build: swift/.
+ dockerfile: Dockerfile.test
+

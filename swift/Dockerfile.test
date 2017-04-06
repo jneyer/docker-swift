@@ -1,0 +1,3 @@
+FROM jneyer/swift
+ADD hello.swift  hello.swift
+CMD ["swift", "hello.swift"]
